@@ -24,4 +24,4 @@ V2A_C[ISA](F15E245-06)-Setup06&ReadME_CompressedZip.zip link:
 https://drive.google.com/file/d/1ANs_qFzFM4cdtV9TPODLcWIhVFvkxZhc/view?usp=share_link
 
 -----------------------------------------------------------------------------------------------------------------------------------
-Projects (Py-PC Apps) for Linux OS lists & Urls: N\A but to be added in future
+Projects (Py-PC Apps) for Linux OS lists & Urls: (To be updated in future)
