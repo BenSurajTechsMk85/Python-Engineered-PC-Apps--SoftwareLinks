@@ -11,7 +11,7 @@ Projects (Py-PC Apps) for Windows OS lists & Urls:
 GIF Maker [Improved.Simplified.Alternative] F99(C899-01) Setup download link:
 https://drive.google.com/file/d/1kZjyuEKgIVNboiZ7U3oJ2XNh_tklFxSY/view?usp=share_link
 
-MySQL 2 Excel: Exporte r3-105 [Improved.Simplified.Alternative] F93(0.3.2-09) Setup download link: 
+MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] F93(0.3.2-09) Setup download link: 
 https://drive.google.com/file/d/1EGETaxBiiUHTi_9QdrMghoFRurEl6g4q/view?usp=share_link
 
 Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] F45(1.5.1-9B) Setup download link:
