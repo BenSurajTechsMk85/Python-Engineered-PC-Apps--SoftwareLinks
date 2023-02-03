@@ -2,11 +2,11 @@
 Python developed PC Applications (Py-PC Apps) Software downloads links
 
 About :
-My projects (Applications for WIndows OS PCs) were developed using python + py additional libraries such as pyinstalller, GTTS, pytube and so on.
+My projects (Applications for WIndows OS & Linux PCs) were developed using python + py additional libraries such as pyinstalller, GTTS, pytube and so on.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Project lists&Urls:
+Projects (Py-PC Apps) for WIndows OS lists & Urls:
 
 GIF_Maker-ISA_F99(C899-01)_Setup&Details-CompressedZip.zip link:
 https://drive.google.com/file/d/1kZjyuEKgIVNboiZ7U3oJ2XNh_tklFxSY/view?usp=share_link
@@ -22,3 +22,6 @@ https://drive.google.com/file/d/1ba3feEx_Z_fOXGOVyJN6NBtcLoBgO9YP/view?usp=share
 
 V2A_C[ISA](F15E245-06)-Setup06&ReadME_CompressedZip.zip link:
 https://drive.google.com/file/d/1ANs_qFzFM4cdtV9TPODLcWIhVFvkxZhc/view?usp=share_link
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
