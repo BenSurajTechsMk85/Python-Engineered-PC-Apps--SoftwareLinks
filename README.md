@@ -8,19 +8,19 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 Projects (Py-PC Apps) for Windows OS lists & Urls:
 
-GIF_Maker-ISA_F99(C899-01)_Setup&Details-CompressedZip.zip link:
+GIF Maker [Improved.Simplified.Alternative] F99(C899-01) Setup download link:
 https://drive.google.com/file/d/1kZjyuEKgIVNboiZ7U3oJ2XNh_tklFxSY/view?usp=share_link
 
-MySQL2Excel_Exporter3-105[ISA]F93(0.3.2-09)_Setup03&ReadME-CompressedZip.zip link: 
+MySQL 2 Excel: Exporte r3-105 [Improved.Simplified.Alternative] F93(0.3.2-09) Setup download link: 
 https://drive.google.com/file/d/1EGETaxBiiUHTi_9QdrMghoFRurEl6g4q/view?usp=share_link
 
-Txt2Mp3_63Mk2[ISA]F45(1.5.1-9B)_Setup06&Details-CompressedZip.zip link:
+Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] F45(1.5.1-9B) Setup download link:
 https://drive.google.com/file/d/1XDRVLlLKYu4NLAEoziUISgWUraPmPAGS/view?usp=share_link
 
-Setup09-PS_22[ISA]F45(T0102E12)_SoftwareDetails-CompressedZip.zip link:
+Portfolio Secure 22 [Improved.Simplified.Alternative] F45(T0102E12) Setup download link:
 https://drive.google.com/file/d/1ba3feEx_Z_fOXGOVyJN6NBtcLoBgO9YP/view?usp=share_link
 
-V2A_C[ISA](F15E245-06)-Setup06&ReadME_CompressedZip.zip link:
+Video-2-Audio: The Converter [Improved.Simplified.Alternative] (F15E245-06) Setup download link:
 https://drive.google.com/file/d/1ANs_qFzFM4cdtV9TPODLcWIhVFvkxZhc/view?usp=share_link
 
 -----------------------------------------------------------------------------------------------------------------------------------
