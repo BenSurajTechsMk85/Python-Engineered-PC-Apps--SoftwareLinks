@@ -23,6 +23,18 @@ https://drive.google.com/file/d/1ba3feEx_Z_fOXGOVyJN6NBtcLoBgO9YP/view?usp=share
 Video-2-Audio: The Converter [Improved.Simplified.Alternative] (F15E245-06) Setup download link:
 https://drive.google.com/file/d/1ANs_qFzFM4cdtV9TPODLcWIhVFvkxZhc/view?usp=share_link
 
+Youtube Saver 3.6 [Improved.Simplified.Alternative]-F326(3.6-179) Setup download link:
+https://drive.google.com/file/d/1gmRKcp1Bmxt4-LKDmhGaGO-2d4T3m6ts/view?usp=share_link
+
+Youtube Saver 3.6 [Improved.Simplified.Alternative]-F326(3.6-187) Setup download link:
+https://drive.google.com/file/d/1th-Nbu0D1oOUzHyMDZuKmQOHTONOsudD/view?usp=share_link
+
+Folder Create Auto-2 PEF++ (Sudha Fashion-custom) (ReEval01C39BS) Setup download link:
+https://drive.google.com/file/d/1JAApM37By_rM1U2NeN0Jy_RsEFVJ1ygz/view?usp=share_link
+
+Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative]-F88(0.1.82).exe Setup download link:
+https://drive.google.com/file/d/1fThK_k59ScvrgOAEcLQs3OgxSnjDDAxn/view?usp=share_link
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Projects (Py-PC Apps) for Linux OS lists & Urls: (To be updated)
