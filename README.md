@@ -15,7 +15,6 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 2) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] F93(0.3.2-09) Setup download link: 
   https://drive.google.com/file/d/1EGETaxBiiUHTi_9QdrMghoFRurEl6g4q/view?usp=share_link
 
-
 3) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] F45(1.5.1-9B) Setup download link:
    https://drive.google.com/file/d/1XDRVLlLKYu4NLAEoziUISgWUraPmPAGS/view?usp=share_link
 
@@ -43,6 +42,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 9) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative]-F88(0.1.82) Setup download link:
    https://drive.google.com/file/d/1fThK_k59ScvrgOAEcLQs3OgxSnjDDAxn/view?usp=share_link
    
+
 10) Folder Create: Auto2\Sudha Fashion custom (Time Stamps-folders)[ISA]-F88 (0.1.82Rev13) Setup download link:
     https://drive.google.com/file/d/1kCUyUsZrOBtt8jPBJ1u7WBiCTnT3hkOR/view?usp=share_link
 
