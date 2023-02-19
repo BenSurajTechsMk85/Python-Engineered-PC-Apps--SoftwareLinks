@@ -42,6 +42,9 @@ Projects (Py-PC Apps) for Windows OS lists & Urls:
 
 9) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative]-F88(0.1.82) Setup download link:
    https://drive.google.com/file/d/1fThK_k59ScvrgOAEcLQs3OgxSnjDDAxn/view?usp=share_link
+   
+10) Folder Create: Auto2\Sudha Fashion custom (Time Stamps-folders)[ISA]-F88 (0.1.82Rev13) Setup download link:
+    https://drive.google.com/file/d/1kCUyUsZrOBtt8jPBJ1u7WBiCTnT3hkOR/view?usp=share_link
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
