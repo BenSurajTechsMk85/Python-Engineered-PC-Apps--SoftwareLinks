@@ -48,6 +48,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 11) Youtube Saver 3.6 [Improved.Simplified.Alternative]-F326(3.6-197) Setup download link:
    https://drive.google.com/file/d/1Ecn1OUj0sZTATskgywOMWfrtZsoP1frZ/view?usp=share_link
+   
+12) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative]-F88(0.1.82Rev11) Setup download link:
+    https://drive.google.com/file/d/1Stl2ZrHhE9_YKQPS2z_phsHEJ85X-e0r/view?usp=share_link
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
