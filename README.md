@@ -19,7 +19,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
    https://drive.google.com/file/d/1XDRVLlLKYu4NLAEoziUISgWUraPmPAGS/view?usp=share_link
 
 
-4) Portfolio Secure 22 [Improved.Simplified.Alternative] Finalized 45(T0102E12) Setup download link:
+4) Portfolio Secure 22 [Improved.Simplified.Alternative] Finalized 45 (T0102E12) Setup download link:
    https://drive.google.com/file/d/1ba3feEx_Z_fOXGOVyJN6NBtcLoBgO9YP/view?usp=share_link
 
 
@@ -27,11 +27,11 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
    https://drive.google.com/file/d/16ySYlWKOE4OStr7RN8GJRLIpzrfBUy_y/view?usp=share_link
   
 
-6) Youtube Saver 3.6 [Improved.Simplified.Alternative]-F326(3.6-179) Setup download link: 
+6) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326 (3.6-179) Setup download link: 
    https://drive.google.com/file/d/1gmRKcp1Bmxt4-LKDmhGaGO-2d4T3m6ts/view?usp=share_link
 
 
-7) Youtube Saver 3.6 [Improved.Simplified.Alternative]-F326(3.6-187) Setup download link:
+7) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326(3.6-187) Setup download link:
    https://drive.google.com/file/d/1th-Nbu0D1oOUzHyMDZuKmQOHTONOsudD/view?usp=share_link
 
 
@@ -39,17 +39,17 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
    https://drive.google.com/file/d/1JAApM37By_rM1U2NeN0Jy_RsEFVJ1ygz/view?usp=share_link
 
 
-9) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative] Finalized 88(0.1.82) Setup download link:
+9) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative] Finalized 88 (0.1.82) Setup download link:
    https://drive.google.com/file/d/1fThK_k59ScvrgOAEcLQs3OgxSnjDDAxn/view?usp=share_link
    
 
 10) Folder Create: Auto2\Sudha Fashion custom (Time Stamps-folders) [Improved.Simplified.Alternative] Finalized 88 (0.1.82Rev13) Setup download link:
     https://drive.google.com/file/d/1kCUyUsZrOBtt8jPBJ1u7WBiCTnT3hkOR/view?usp=share_link
 
-11) Youtube Saver 3.6 [Improved.Simplified.Alternative]-F326(3.6-197) Setup download link:
+11) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326 (3.6-197) Setup download link:
    https://drive.google.com/file/d/1Ecn1OUj0sZTATskgywOMWfrtZsoP1frZ/view?usp=share_link
    
-12) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative] Finalized 88(0.1.82Rev11) Setup download link:
+12) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative] Finalized 88 (0.1.82Rev11) Setup download link:
     https://drive.google.com/file/d/1Stl2ZrHhE9_YKQPS2z_phsHEJ85X-e0r/view?usp=share_link
 
 -----------------------------------------------------------------------------------------------------------------------------------
