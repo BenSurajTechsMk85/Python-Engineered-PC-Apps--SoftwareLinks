@@ -8,7 +8,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 >  Projects (Py-PC Apps) for Windows OS lists & Urls:
 
-1) GIF Maker [Improved.Simplified.Alternative] F99(C899-01) Setup download link:
+1) GIF Maker [Improved.Simplified.Alternative] Finalized 99 (C899-01) Setup download link:
    https://drive.google.com/file/d/1kZjyuEKgIVNboiZ7U3oJ2XNh_tklFxSY/view?usp=share_link
 
 
