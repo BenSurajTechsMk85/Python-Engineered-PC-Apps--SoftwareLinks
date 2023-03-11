@@ -12,14 +12,14 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
    https://drive.google.com/file/d/1kZjyuEKgIVNboiZ7U3oJ2XNh_tklFxSY/view?usp=share_link
 
 
-2) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] F93(0.3.2-09) Setup download link: 
+2) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.3.2-09) Setup download link: 
   https://drive.google.com/file/d/1EGETaxBiiUHTi_9QdrMghoFRurEl6g4q/view?usp=share_link
 
-3) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] F45(1.5.1-9B) Setup download link:
+3) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Finalized 45 (1.5.1-9B) Setup download link:
    https://drive.google.com/file/d/1XDRVLlLKYu4NLAEoziUISgWUraPmPAGS/view?usp=share_link
 
 
-4) Portfolio Secure 22 [Improved.Simplified.Alternative] F45(T0102E12) Setup download link:
+4) Portfolio Secure 22 [Improved.Simplified.Alternative] Finalized 45(T0102E12) Setup download link:
    https://drive.google.com/file/d/1ba3feEx_Z_fOXGOVyJN6NBtcLoBgO9YP/view?usp=share_link
 
 
