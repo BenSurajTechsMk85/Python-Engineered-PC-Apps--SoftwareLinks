@@ -15,6 +15,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 2) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.3.2-09) Setup download link: 
   https://drive.google.com/file/d/1EGETaxBiiUHTi_9QdrMghoFRurEl6g4q/view?usp=share_link
 
+
 3) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Finalized 45 (1.5.1-9B) Setup download link:
    https://drive.google.com/file/d/1XDRVLlLKYu4NLAEoziUISgWUraPmPAGS/view?usp=share_link
 
@@ -51,6 +52,10 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
    
 12) Folder Create: Auto-2 (Timestamp folders) [Improved.Simplified.Alternative] Finalized 88 (0.1.82Rev11) Setup download link:
     https://drive.google.com/file/d/1Stl2ZrHhE9_YKQPS2z_phsHEJ85X-e0r/view?usp=share_link
+    
+23) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Finalized 45 (1.5.1-9BB) Setup download link:
+    https://drive.google.com/file/d/1EohQTYABPhxKhLChjsAhCtrUaC1B9yr6/view?usp=share_link
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
