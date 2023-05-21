@@ -62,8 +62,14 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
     https://drive.google.com/file/d/1EohQTYABPhxKhLChjsAhCtrUaC1B9yr6/view?usp=share_link
     
     
-24) Tweet Video Downloader [Improved.Simplified.Alternative] Finalized 233 Setup download link:
+24) Tweet Video Downloader [Improved.Simplified.Alternative] Finalized 233 (0.1.5-3) Setup download link:
     https://drive.google.com/file/d/1oCu8jsiatolCj0tuSiQv6OB3j18b7_g9/view?usp=share_link
+    
+    
+    
+25) Py-libs Installer: Command-Line Interface Auto [Improved.Simplified.Alternative] Fnalized 88 (B223-04) Setup download link:    
+    https://drive.google.com/file/d/10-pdFN12cj3PpkHpdixxuLrQ02IBrT-N/view?usp=share_link              
+    
     
 
 26) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326 (3.6-199) Setup download link:                                          
