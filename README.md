@@ -46,7 +46,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
    https://drive.google.com/file/d/1fThK_k59ScvrgOAEcLQs3OgxSnjDDAxn/view?usp=share_link
    
 
-10) Folder Create: Auto2\Sudha Fashion custom (Time Stamps-folders) [Improved.Simplified.Alternative] Finalized 88 (0.1.82Rev13) Setup download link:
+10) Folder Create: Auto2\Sudha Fashion custom (Time Stamps-folders) [Improved.Simplified.Alternative] Finalized 88 (0.1.82Rev13) Setup download link:                        
     https://drive.google.com/file/d/1kCUyUsZrOBtt8jPBJ1u7WBiCTnT3hkOR/view?usp=share_link
 
 
