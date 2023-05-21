@@ -30,7 +30,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
   
   
 
-6) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326 (3.6-179) Setup download link: 
+6) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326 (3.6-179) Setup download link:                      
    Removed
 
 
