@@ -17,7 +17,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 
 3) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Finalized 45 (1.5.1-9B) Setup download link:
-   https://drive.google.com/file/d/1XDRVLlLKYu4NLAEoziUISgWUraPmPAGS/view?usp=share_link
+   Removed
 
 
 4) Portfolio Secure 22 [Improved.Simplified.Alternative] Finalized 45 (T0102E12) Setup download link:
