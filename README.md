@@ -75,6 +75,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
     https://drive.google.com/file/d/17L0-rg-54ihF9giVZewWXCG7rLWB1pmQ/view?usp=share_link
     
 
+
 18) QR Code Generator 3-B [Improved.Simplified.Alternative] Finalized 63 - i97(0.2.1-09) Setup link:                                          
       https://qr-code-generator-3-b-i-s-a.sourceforge.io/
 
@@ -86,6 +87,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 20) Image 2 PDF Converter [Improved.Simpllified.Alternative] Finalized 15 Easy (A02-1) Setup link:
       https://image-2-pdf-converter-isa.sourceforge.io/
 
+
+21) YouTube video web scraper 2 [Improved.Simplified.Alternative] Setup link:
+       https://yt-videowebscraper2-isa.sourceforge.io/
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
