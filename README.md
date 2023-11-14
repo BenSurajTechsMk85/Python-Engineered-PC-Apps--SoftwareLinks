@@ -91,6 +91,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 21) YouTube video web scraper 2 [Improved.Simplified.Alternative] Setup link:
        https://yt-videowebscraper2-isa.sourceforge.io/
 
+22) Portfolio Secure 22 [Improved.Simplified.Alternative] Setup link:
+      https://portfolio-secure-22-i-s-a.sourceforge.io/
+    
 -----------------------------------------------------------------------------------------------------------------------------------
 
 > Projects (Py-PC Apps) for Linux OS lists & Urls: (To be updated)
