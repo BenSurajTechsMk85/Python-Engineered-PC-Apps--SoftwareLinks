@@ -95,6 +95,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 23) GPT ChatterBot - experimental 23 (A ChatGPT app for PC ) Setup link:
       https://gpt-chatterbot-x23.sourceforge.io/
+
+24) OpenAI Picture Generator - experimental 23 Setup link:
+          https://openai-picgen-x23.sourceforge.io/
     
 -----------------------------------------------------------------------------------------------------------------------------------
 
