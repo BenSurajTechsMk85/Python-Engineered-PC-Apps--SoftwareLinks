@@ -69,16 +69,16 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 15) Py-libs Installer: Command-Line Interface Auto [Improved.Simplified.Alternative] Fnalized 88 (B223-04) Setup download link:    
     https://drive.google.com/file/d/10-pdFN12cj3PpkHpdixxuLrQ02IBrT-N/view?usp=share_link              
     
-    
+   
 
 16) Youtube Saver 3.6 [Improved.Simplified.Alternative] Finalized 326 (3.6-199) Setup download link:                                          
     https://drive.google.com/file/d/17L0-rg-54ihF9giVZewWXCG7rLWB1pmQ/view?usp=share_link
 
-17) QR Code Generator 3-B [Improved.Simplified.Alternative] Finalized 63 - i97(0.2.1-09) Setup download link:                                          
-   https://sourceforge.net/projects/qr-code-generator-3-b-i-s-a/files/latest/download
+17) QR Code Generator 3-B [Improved.Simplified.Alternative] Finalized 63 - i97(0.2.1-09) Setup link:                                          
+   https://qr-code-generator-3-b-i-s-a.sourceforge.io/
 
-18) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.7.2-27) Setup download link: 
-    https://sourceforge.net/projects/mysql2excelexporter3-105-i-s-a/files/latest/download
+18) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.7.2-27) Setup link: 
+    https://mysql2excelexporter3-105-i-s-a.sourceforge.io/
 19)
 
 
