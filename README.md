@@ -79,7 +79,8 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 18) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.7.2-27) Setup link:    
       https://mysql2excelexporter3-105-i-s-a.sourceforge.io/
-20)
+20) Image 2 PDF Converter [Improved.Simpllified.Alternative] Finalized 15Easy (A02-1) Setup link:
+       https://image-2-pdf-converter-isa.sourceforge.io/
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
