@@ -75,11 +75,11 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
     https://drive.google.com/file/d/17L0-rg-54ihF9giVZewWXCG7rLWB1pmQ/view?usp=share_link
 
 17) QR Code Generator 3-B [Improved.Simplified.Alternative] Finalized 63 - i97(0.2.1-09) Setup link:                                          
-   https://qr-code-generator-3-b-i-s-a.sourceforge.io/
+      https://qr-code-generator-3-b-i-s-a.sourceforge.io/
 
-18) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.7.2-27) Setup link: 
-    https://mysql2excelexporter3-105-i-s-a.sourceforge.io/
-19)
+18) MySQL 2 Excel: Exporter 3-105 [Improved.Simplified.Alternative] Finalized 93 (0.7.2-27) Setup link:
+      https://mysql2excelexporter3-105-i-s-a.sourceforge.io/
+20)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
