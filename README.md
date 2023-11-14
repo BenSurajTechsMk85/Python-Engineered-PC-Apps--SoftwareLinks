@@ -92,6 +92,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 22) Portfolio Secure 22 [Improved.Simplified.Alternative] Setup link:
       https://portfolio-secure-22-i-s-a.sourceforge.io/
+
+23) GPT ChatterBot - experimental 23 (A ChatGPT app for PC ) Setup link:
+      https://gpt-chatterbot-x23.sourceforge.io/
     
 -----------------------------------------------------------------------------------------------------------------------------------
 
