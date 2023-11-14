@@ -83,8 +83,8 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
       https://mysql2excelexporter3-105-i-s-a.sourceforge.io/
 
     
-20) Image 2 PDF Converter [Improved.Simpllified.Alternative] Finalized 15Easy (A02-1) Setup link:
-        https://image-2-pdf-converter-isa.sourceforge.io/
+20) Image 2 PDF Converter [Improved.Simpllified.Alternative] Finalized 15 Easy (A02-1) Setup link:
+      https://image-2-pdf-converter-isa.sourceforge.io/
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
