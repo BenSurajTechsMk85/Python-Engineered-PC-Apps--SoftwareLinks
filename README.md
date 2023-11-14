@@ -98,7 +98,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 24) OpenAI Picture Generator - experimental 23 Setup link:
       https://openai-picgen-x23.sourceforge.io/
-    
+
+25) PyExe - YT DL [Improved.Simplified.Alternative] Setup link:
+      https://pyexe-yt-dl-i-s-a.sourceforge.io/ 
 -----------------------------------------------------------------------------------------------------------------------------------
 
 > Projects (Py-PC Apps) for Linux OS lists & Urls: (To be updated)
