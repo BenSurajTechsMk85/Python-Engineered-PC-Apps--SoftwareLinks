@@ -24,7 +24,7 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 8) PyExe - YT DL [Improved.Simplified.Alternative] Setup link: https://pyexe-yt-dl-i-s-a.sourceforge.io/
 
-9) Video 2 Audio The Converter [I.S.A] Setup link: https://video2audio-theconverter-i-s-a.sourceforge.io/
+9) Video 2 Audio The Converter [Improved.Simplified.Alternative] Setup link: https://video2audio-theconverter-i-s-a.sourceforge.io/
    
 10) PDF-Docx Generator [Improved.Simplified.Alternative] Setup link: https://pdf-docx-gen-isa.sourceforge.io/
     
