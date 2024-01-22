@@ -27,6 +27,8 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 9) Video 2 Audio The Converter [Improved.Simplified.Alternative] Setup link: https://video2audio-theconverter-i-s-a.sourceforge.io/
    
 10) PDF-Docx Generator [Improved.Simplified.Alternative] Setup link: https://pdf-docx-gen-isa.sourceforge.io/
+
+11) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Setup link: https://txt-2-mp3-6-3-mark-2-i-s-a.sourceforge.io/
     
 -----------------------------------------------------------------------------------------------------------------------------------
 
