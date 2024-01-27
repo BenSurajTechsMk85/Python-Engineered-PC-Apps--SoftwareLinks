@@ -30,6 +30,8 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 
 11) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Setup link: https://txt-2-mp3-6-3-mark-2-i-s-a.sourceforge.io/
     
+12) QR Code Generator [Improved.Simplified.Alternative] Finalized 63 - i99(2024-A1-27) Setup link: https://qr-code-generator-isa.sourceforge.io/
+    
 -----------------------------------------------------------------------------------------------------------------------------------
 
 > Projects (Py-PC Apps) for Linux OS lists & Urls: (To be updated)
