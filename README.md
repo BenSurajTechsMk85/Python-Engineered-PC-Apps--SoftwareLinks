@@ -31,6 +31,9 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
 11) Txt-2-Mp3 6.3 Mark 2 [Improved.Simplified.Alternative] Setup link: https://txt-2-mp3-6-3-mark-2-i-s-a.sourceforge.io/
     
 12) QR Code Generator [Improved.Simplified.Alternative] Setup link: https://qr-code-generator-isa.sourceforge.io/
+
+13) PyExe: Cbz to pdf converter [Improved.Simplified.Alternative] Setup link:
+    https://sourceforge.net/projects/pyexe-cbz-to-pdf-converter-isa/
     
 -----------------------------------------------------------------------------------------------------------------------------------
 
