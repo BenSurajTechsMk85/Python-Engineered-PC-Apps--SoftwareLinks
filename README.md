@@ -32,7 +32,10 @@ My projects (Applications for WIndows OS & Linux PCs) were developed using pytho
     
 12) QR Code Generator [Improved.Simplified.Alternative] Setup link: https://qr-code-generator-isa.sourceforge.io/
 
-13) PyExe: Cbz to pdf converter [Improved.Simplified.Alternative] Setup link:
+13) PyExe: PDF locker [Improved.Simplified.Alternative] Setup link
+    https://sourceforge.net/projects/pyexe-pdf-locker-isa/
+
+15) PyExe: Cbz to pdf converter [Improved.Simplified.Alternative] Setup link:
     https://sourceforge.net/projects/pyexe-cbz-to-pdf-converter-isa/
     
 -----------------------------------------------------------------------------------------------------------------------------------
